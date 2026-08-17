@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/LocalStorage"
+  base: "/LocalStorage/"
 });
